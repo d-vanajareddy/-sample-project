@@ -1,1 +1,4 @@
+hello vanaja 
+
+
 http://127.0.0.1:5000/signel?GW_MAC=12&D_SIGNEL_1={%22timestamp%22:%20%222021-04-19T15:54:50Z%22,%20%22type%22:%20%22iBeacon%22,%20%22mac%22:%20%22AC233F545F65%22,%20%22bleName%22:%20%22%22,%22ibeaconUuid%22:%20%22E2C56DB5DFFB48D2B060D0F5A71096E0%22,%20%22ibeaconMajor%22:%200,%20%22ibeaconMinor%22:%200,%20%22rssi%22:%2045,%20%22ibeaconTxPower%22:%20-59,%20%22battery%22:%2010}
